@@ -22,6 +22,13 @@ The JavaFX Chat Application is a desktop application that facilitates real-time 
 - **~Sending voice messages~**. **Coming Soon** 🔄️
 - **~Attach Files and photos~**. **Coming Soon** 🔄️
 
+## Preview
+- **Login screen**
+  ![Screenshot 2024-07-20 150449](https://github.com/user-attachments/assets/63b0d598-4f83-4385-80f2-9bc20f7ed292)
+- **Chat screen**
+![Screenshot 2024-07-21 235607](https://github.com/user-attachments/assets/261f1691-5fb4-4c95-8115-7d16d299756c)
+
+
 ## Requirements
 - **Java Development Kit (JDK)** 11 or higher
 - **JavaFX SDK** 11 or higher
